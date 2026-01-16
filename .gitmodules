@@ -1,6 +1,6 @@
 [submodule "include/visual"]
-	path = include/visual
+	path = scripting/include/visual
 	url = https://github.com/speedrun-16/visual
 [submodule "include/neumenu"]
-	path = include/neumenu
+	path = scripting/include/neumenu
 	url = https://github.com/speedrun-16/neumenu
